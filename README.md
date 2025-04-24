@@ -83,30 +83,121 @@ Uso de lenguaje natural para usuarios finales, y que pueden hacer preguntas acer
 
 
 ## Imagenes
-# Visualización del Proyecto
 
-Todas las imágenes a continuación están centradas para una mejor presentación visual del repositorio.
 
+<!-- Imagen 0 -->
+
+
+<!-- Imagen 1 -->
+<h3 align="center">Imagen 1</h3>
 <p align="center">
-  <img src="Imagenes/0.png" alt="0" width="70%"/>
-  <img src="Imagenes/1.jpg" alt="1" width="70%"/>
-  <img src="Imagenes/2.jpg" alt="2" width="70%"/>
-  <img src="Imagenes/3.jpg" alt="3" width="70%"/>
-  <img src="Imagenes/4.jpg" alt="4" width="70%"/>
-  <img src="Imagenes/5.jpg" alt="5" width="70%"/>
-  <img src="Imagenes/6.jpg" alt="6" width="70%"/>
-  <img src="Imagenes/7.jpg" alt="7" width="70%"/>
-  <img src="Imagenes/8.jpg" alt="8" width="70%"/>
-  <img src="Imagenes/9.jpg" alt="9" width="70%"/>
-  <img src="Imagenes/10.jpg" alt="10" width="70%"/>
-  <img src="Imagenes/11.jpg" alt="11" width="70%"/>
-  <img src="Imagenes/12.png" alt="12" width="70%"/>
-  <img src="Imagenes/13.jpg" alt="13" width="70%"/>
-  <img src="Imagenes/14.png" alt="14" width="70%"/>
-  <img src="Imagenes/15.png" alt="15" width="70%"/>
-  <img src="Imagenes/16.jpg" alt="16" width="70%"/>
-  <img src="Imagenes/17.jpg" alt="17" width="70%"/>
-  <img src="Imagenes/18.png" alt="18" width="70%"/>
-  <img src="Imagenes/19.png" alt="19" width="70%"/>
+  <img src="Imagenes/1.jpg" width="500px">
 </p>
 
+<!-- Imagen 2 -->
+<h3 align="center">Imagen 2</h3>
+<p align="center">
+  <img src="Imagenes/2.jpg" width="500px">
+</p>
+
+<!-- Imagen 3 -->
+<h3 align="center">Imagen 3</h3>
+<p align="center">
+  <img src="Imagenes/3.jpg" width="500px">
+</p>
+
+<!-- Imagen 4 -->
+<h3 align="center">Imagen 4</h3>
+<p align="center">
+  <img src="Imagenes/4.jpg" width="500px">
+</p>
+
+<!-- Imagen 5 -->
+<h3 align="center">Imagen 5</h3>
+<p align="center">
+  <img src="Imagenes/5.jpg" width="500px">
+</p>
+
+<!-- Imagen 6 -->
+<h3 align="center">Imagen 6</h3>
+<p align="center">
+  <img src="Imagenes/6.jpg" width="500px">
+</p>
+
+<!-- Imagen 7 -->
+<h3 align="center">Imagen 7</h3>
+<p align="center">
+  <img src="Imagenes/7.jpg" width="500px">
+</p>
+
+<!-- Imagen 8 -->
+<h3 align="center">Imagen 8</h3>
+<p align="center">
+  <img src="Imagenes/8.jpg" width="500px">
+</p>
+
+<!-- Imagen 9 -->
+<h3 align="center">Imagen 9</h3>
+<p align="center">
+  <img src="Imagenes/9.jpg" width="500px">
+</p>
+
+<!-- Imagen 10 -->
+<h3 align="center">Imagen 10</h3>
+<p align="center">
+  <img src="Imagenes/10.jpg" width="500px">
+</p>
+
+<!-- Imagen 11 -->
+<h3 align="center">Imagen 11</h3>
+<p align="center">
+  <img src="Imagenes/11.jpg" width="500px">
+</p>
+
+<!-- Imagen 12 -->
+<h3 align="center">Imagen 12</h3>
+<p align="center">
+  <img src="Imagenes/12.png" width="500px">
+</p>
+
+<!-- Imagen 13 -->
+<h3 align="center">Imagen 13</h3>
+<p align="center">
+  <img src="Imagenes/13.jpg" width="500px">
+</p>
+
+<!-- Imagen 14 -->
+<h3 align="center">Imagen 14</h3>
+<p align="center">
+  <img src="Imagenes/14.png" width="500px">
+</p>
+
+<!-- Imagen 15 -->
+<h3 align="center">Imagen 15</h3>
+<p align="center">
+  <img src="Imagenes/15.png" width="500px">
+</p>
+
+<!-- Imagen 16 -->
+<h3 align="center">Imagen 16</h3>
+<p align="center">
+  <img src="Imagenes/16.jpg" width="500px">
+</p>
+
+<!-- Imagen 17 -->
+<h3 align="center">Imagen 17</h3>
+<p align="center">
+  <img src="Imagenes/17.jpg" width="500px">
+</p>
+
+<!-- Imagen 18 -->
+<h3 align="center">Imagen 18</h3>
+<p align="center">
+  <img src="Imagenes/18.png" width="500px">
+</p>
+
+<!-- Imagen 19 -->
+<h3 align="center">Imagen 19</h3>
+<p align="center">
+  <img src="Imagenes/19.png" width="500px">
+</p>
