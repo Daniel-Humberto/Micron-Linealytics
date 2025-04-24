@@ -85,119 +85,116 @@ Uso de lenguaje natural para usuarios finales, y que pueden hacer preguntas acer
 ## Imagenes
 
 
-<!-- Imagen 0 -->
 
-
-<!-- Imagen 1 -->
-<h3 align="center">Imagen 1</h3>
+<h3 align="center">Linealytics Logo</h3>
 <p align="center">
   <img src="Imagenes/1.jpg" width="500px">
 </p>
 
-<!-- Imagen 2 -->
-<h3 align="center">Imagen 2</h3>
+
+<h3 align="center">CRISP-DM</h3>
 <p align="center">
   <img src="Imagenes/2.jpg" width="500px">
 </p>
 
-<!-- Imagen 3 -->
-<h3 align="center">Imagen 3</h3>
+
+<h3 align="center">SCRUM</h3>
 <p align="center">
   <img src="Imagenes/3.jpg" width="500px">
 </p>
 
-<!-- Imagen 4 -->
-<h3 align="center">Imagen 4</h3>
+
+<h3 align="center">Arquitectura Sistema</h3>
 <p align="center">
   <img src="Imagenes/4.jpg" width="500px">
 </p>
 
-<!-- Imagen 5 -->
-<h3 align="center">Imagen 5</h3>
+
+<h3 align="center">Microsoft Power Automate</h3>
 <p align="center">
   <img src="Imagenes/5.jpg" width="500px">
 </p>
 
-<!-- Imagen 6 -->
-<h3 align="center">Imagen 6</h3>
+
+<h3 align="center">Arquitectura Sistema en Azure</h3>
 <p align="center">
   <img src="Imagenes/6.jpg" width="500px">
 </p>
 
-<!-- Imagen 7 -->
-<h3 align="center">Imagen 7</h3>
+
+<h3 align="center">Arquitectura Sistema en Azure con SAP</h3>
 <p align="center">
   <img src="Imagenes/7.jpg" width="500px">
 </p>
 
-<!-- Imagen 8 -->
-<h3 align="center">Imagen 8</h3>
+
+<h3 align="center">EDA</h3>
 <p align="center">
   <img src="Imagenes/8.jpg" width="500px">
 </p>
 
-<!-- Imagen 9 -->
-<h3 align="center">Imagen 9</h3>
+
+<h3 align="center">EDA</h3>
 <p align="center">
   <img src="Imagenes/9.jpg" width="500px">
 </p>
 
-<!-- Imagen 10 -->
-<h3 align="center">Imagen 10</h3>
+
+<h3 align="center">XGBoost</h3>
 <p align="center">
   <img src="Imagenes/10.jpg" width="500px">
 </p>
 
-<!-- Imagen 11 -->
-<h3 align="center">Imagen 11</h3>
+
+<h3 align="center">Bootstrapping</h3>
 <p align="center">
   <img src="Imagenes/11.jpg" width="500px">
 </p>
 
-<!-- Imagen 12 -->
-<h3 align="center">Imagen 12</h3>
+
+<h3 align="center">Programación Lineal</h3>
 <p align="center">
   <img src="Imagenes/12.png" width="500px">
 </p>
 
-<!-- Imagen 13 -->
-<h3 align="center">Imagen 13</h3>
+
+<h3 align="center">Resultado del Modelo de Programación Lineal</h3>
 <p align="center">
   <img src="Imagenes/13.jpg" width="500px">
 </p>
 
-<!-- Imagen 14 -->
-<h3 align="center">Imagen 14</h3>
+
+<h3 align="center">PowerBI</h3>
 <p align="center">
   <img src="Imagenes/14.png" width="500px">
 </p>
 
-<!-- Imagen 15 -->
-<h3 align="center">Imagen 15</h3>
+
+<h3 align="center">PowerBI</h3>
 <p align="center">
   <img src="Imagenes/15.png" width="500px">
 </p>
 
-<!-- Imagen 16 -->
-<h3 align="center">Imagen 16</h3>
+
+<h3 align="center">Microsoft Power Automate Mails PowerBI</h3>
 <p align="center">
   <img src="Imagenes/16.jpg" width="500px">
 </p>
 
-<!-- Imagen 17 -->
-<h3 align="center">Imagen 17</h3>
+
+<h3 align="center">Microsoft Power Automate Mails PowerBI</h3>
 <p align="center">
   <img src="Imagenes/17.jpg" width="500px">
 </p>
 
-<!-- Imagen 18 -->
-<h3 align="center">Imagen 18</h3>
+
+<h3 align="center">Microsoft Power Automate Mails PowerBI</h3>
 <p align="center">
   <img src="Imagenes/18.png" width="500px">
 </p>
 
-<!-- Imagen 19 -->
-<h3 align="center">Imagen 19</h3>
+
+<h3 align="center">Microsoft Power Automate Mails PowerBI</h3>
 <p align="center">
   <img src="Imagenes/19.png" width="500px">
 </p>
