@@ -26,7 +26,7 @@ Optimizar el plan de producción mediante programación lineal para satisfacer l
 
 ### ⚙️ Tecnologías Utilizadas
 
-- **Frontend:** Power BI, Shadcn/ui, Tailwind CSS, Plotly
+- **Frontend:** Power BI
 - **Backend:** Python, XGBoost, Bootstrapping, Linear Programming
 - **Infraestructura:** Microsoft Azure
 - **Automatización:** Power Automate, Microsoft Copilot
