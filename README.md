@@ -44,7 +44,9 @@ Azure
 
 ### Data:
 
-CSV (Datos Historicos) -> Trasponer -> Conversion de trimestres a registros Semanales -> CSV con datos limpios y en el formato mas granulado
+- 🎲 **Trasponer** 
+- 🧮 **Conversion de trimestres a registros Semanales** 
+- 🔍 **EDA**
 
 
 ### BackEnd:
@@ -52,9 +54,6 @@ CSV (Datos Historicos) -> Trasponer -> Conversion de trimestres a registros Sema
 - 🔍 **Predicción de demanda** con XGBoost
 - 🎲 **Simulación de escenarios** con Bootstrapping
 - 🧮 **Optimización de la producción** con Programación Lineal
-
-
-
 
 
 ### FrontEnd:
