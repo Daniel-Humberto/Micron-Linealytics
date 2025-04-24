@@ -80,3 +80,33 @@ Agregar Top Loss o un equivalencia para poder automatizar la notificacion en cas
 ### Copilot:
 
 Uso de lenguaje natural para usuarios finales, y que pueden hacer preguntas acerca de los data sets o exceles, PowerBI, etc
+
+
+## Imagenes
+# Visualización del Proyecto
+
+Todas las imágenes a continuación están centradas para una mejor presentación visual del repositorio.
+
+<p align="center">
+  <img src="Imagenes/0.png" alt="0" width="70%"/>
+  <img src="Imagenes/1.jpg" alt="1" width="70%"/>
+  <img src="Imagenes/2.jpg" alt="2" width="70%"/>
+  <img src="Imagenes/3.jpg" alt="3" width="70%"/>
+  <img src="Imagenes/4.jpg" alt="4" width="70%"/>
+  <img src="Imagenes/5.jpg" alt="5" width="70%"/>
+  <img src="Imagenes/6.jpg" alt="6" width="70%"/>
+  <img src="Imagenes/7.jpg" alt="7" width="70%"/>
+  <img src="Imagenes/8.jpg" alt="8" width="70%"/>
+  <img src="Imagenes/9.jpg" alt="9" width="70%"/>
+  <img src="Imagenes/10.jpg" alt="10" width="70%"/>
+  <img src="Imagenes/11.jpg" alt="11" width="70%"/>
+  <img src="Imagenes/12.png" alt="12" width="70%"/>
+  <img src="Imagenes/13.jpg" alt="13" width="70%"/>
+  <img src="Imagenes/14.png" alt="14" width="70%"/>
+  <img src="Imagenes/15.png" alt="15" width="70%"/>
+  <img src="Imagenes/16.jpg" alt="16" width="70%"/>
+  <img src="Imagenes/17.jpg" alt="17" width="70%"/>
+  <img src="Imagenes/18.png" alt="18" width="70%"/>
+  <img src="Imagenes/19.png" alt="19" width="70%"/>
+</p>
+
