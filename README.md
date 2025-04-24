@@ -30,6 +30,8 @@ CSV (Datos Historicos) -> Trasponer -> Conversion de trimestres a registros Sema
 ### BackEnd:
 
 CSV con datos limpios y en el formato mas granulado -> XGBoost -> Bootstrapping -> Programacion Lineal - > CSV Predicciones y punto de Equilibrio
+    
+![Imagen 1](Imagenes/1.png)
 
 
 ### FrontEnd:
