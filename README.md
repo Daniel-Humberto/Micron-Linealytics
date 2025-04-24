@@ -80,10 +80,3 @@ Agregar Top Loss o un equivalencia para poder automatizar la notificacion en cas
 ### Copilot:
 
 Uso de lenguaje natural para usuarios finales, y que pueden hacer preguntas acerca de los data sets o exceles, PowerBI, etc
-
-
-## 🧠 Descripción del Proyecto
-
-Linealytics AutoProduction es una herramienta de análisis predictivo y optimización de recursos que combina:
-
-
