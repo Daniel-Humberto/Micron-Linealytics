@@ -1,0 +1,4 @@
+product_id,total_demand,total_production,avg_inventory,solution_type
+21A,4178639400.0,65000.0,76.92307692307692,Heuristic
+22B,3067417000.0,52000.0,76.92307692307692,Heuristic
+23C,11199800000.0,65000.0,76.92307692307692,Heuristic
