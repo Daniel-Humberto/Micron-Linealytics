@@ -73,13 +73,9 @@ El modelo devuelve:
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## ⚙️ Metodologías Utilizadas
 
-- **Frontend:** Power BI
-- **Backend:** Python, XGBoost, Bootstrapping, Programación Lineal
-- **Infraestructura:** Microsoft Azure
-- **Automatización:** Power Automate, Microsoft Copilot
-- **Metodologías:** SCRUM + CRISP-DM
+SCRUM + CRISP-DM
 
 <p align="center">
   <img src="Imagenes/3.jpg" width="450px"><br>
@@ -90,6 +86,15 @@ El modelo devuelve:
   <img src="Imagenes/2.jpg" width="450px"><br>
   <i>CRISP-DM</i>
 </p>
+
+---
+
+## ⚙️ Tecnologías Utilizadas
+
+- **Frontend:** Power BI
+- **Backend:** Python, XGBoost, Bootstrapping, Programación Lineal
+- **Infraestructura:** Microsoft Azure
+- **Automatización:** Power Automate, Microsoft Copilot
 
 ---
 
