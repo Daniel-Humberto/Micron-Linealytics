@@ -177,3 +177,4 @@ Microsoft Copilot permite la **interacción por lenguaje natural** con los datos
 Este proyecto me a ayudado a comprender nuevos enfoques respecto a el despliegue de proyectos de Data Science en entornos productivos emrpesariales.
 
 ---
+---
