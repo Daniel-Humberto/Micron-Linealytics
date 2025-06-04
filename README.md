@@ -150,10 +150,10 @@ Se configuraron alertas automatizadas por correo electrónico para situaciones c
 * Sobreproducción
 
 <p align="center">
-  <img src="Imagenes/16.jpg" width="750px">
-  <img src="Imagenes/17.jpg" width="750px">
-  <img src="Imagenes/18.png" width="750px">
-  <img src="Imagenes/19.png" width="750px">
+  <img src="Imagenes/16.jpg" width="500px">
+  <img src="Imagenes/17.jpg" width="500px">
+  <img src="Imagenes/18.png" width="500px">
+  <img src="Imagenes/19.png" width="500px">
   <br><i>Alertas automatizadas por correo</i>
 </p>
 
