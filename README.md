@@ -16,7 +16,7 @@ El sistema fue construido en Python, integrando el ecosistema empresarial de Mic
 
 ## ✅ Objetivo Principal
 
-> **Sistema en Python que automatiza los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente, y reduciendo costos mediante modelado con programación lineal.**
+> **System in Python that automates the necessary calculations to balance production with demand, allowing more precise and efficient planning and reducing costs, using linear programming modeling.**
 
 ---
 
