@@ -6,84 +6,58 @@
 
 ---
 
-## 📌 Características Principales
+## 📌 Intoduccion
 
-Una solución integral y automatizada para la **planificación y optimización de la producción industrial**, desarrollada para el **Talen Hackaton 2025 - Track Micron** por el equipo **Linealytics**.
+Este fue el proyecto para el Genius Arena Hackathon 2025 de Talent Land, en el track "Production Planning Linear Programming" presentado por Micron. Fue desarrollado por el equipo Linealytics el cual formo parte de los ultimos 3 equipos finalistas.
 
----
-
-## 🎯 Objetivo Principal
-
-Desarrollar un sistema con **Python** y el ecosistema empresarial de **Microsoft** para automatizar los cálculos necesarios que permitan equilibrar la producción con la demanda. Esto se logra mediante un modelo basado en **XGBoost**, **Bootstrapping** y **Programación Lineal**, asegurando:
-
-- Planificación precisa y eficiente.
-- Reducción de costos.
-- Satisfacción de la demanda sin sobreproducción.
+El proyecto consto de un sistema en Python junto con el ecosistema empresarial de Microsoft, para automatizar los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente y reduciendo los costes, mediante un modelo de XGBoost, Bootstrapping y un sistema de programación lineal.
 
 ---
 
-## 📌 Criterios de Optimización
+## ✅ Objetivo Principal
+
+> **System in Python that automates the necessary calculations to balance production with demand, allowing more precise and efficient planning and reducing costs, using linear programming modeling.**
+
+---
+
+## 🎯 Criterios Principales
 
 Se busca **minimizar la productividad** necesaria para cumplir con la demanda, teniendo en cuenta:
 
 - Stock inicial
 - Rendimiento
-- Densidad de producción
 - Productividad máxima
-- Stock de seguridad (opcional)
+- Densidad de producción
 - Stock final objetivo: **cero**
-
-El modelo devuelve:
-
-- `production_levels`: Producción óptima semanal.
-- `ending_stocks`: Inventario final por periodo.
-- `status`: Resultado de la optimización (`Óptimo`, `Inviable`, etc.).
-
-<p align="center">
-  <img src="Imagenes/12.png" width="500px"><br>
-  <i>Programación Lineal</i>
-</p>
-
-<p align="center">
-  <img src="Imagenes/13.jpg" width="500px"><br>
-  <i>Resultado del Modelo</i>
-</p>
+- Stock de seguridad (opcional)
 
 ---
 
-## 🚀 Características Clave
+## 🚀 Desarrollo
+
+El proyecto consto de un sistema en Python junto con el ecosistema empresarial de Microsoft, para automatizar los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente y reduciendo los costes, mediante un modelo de XGBoost, Bootstrapping y un sistema de programación lineal.
 
 - 🧠 Predicción semanal de demanda con **Machine Learning**
 - 🎲 Simulación de escenarios con **Bootstrapping**
 - 🧮 Optimización con **Programación Lineal**
 - 📈 Dashboards interactivos con **Power BI**
-- ⚙️ Flujo de trabajo 100% automatizado
-- 📧 Notificaciones automáticas por email
+- ⚙️ Flujo de trabajo 100% automatizado **Microsoft Power Automate**
+- 📧 Notificaciones automáticas por email **Microsoft Power Automate**
 - 💬 Interacción con lenguaje natural vía **Microsoft Copilot**
-
-<p align="center">
-  <img src="Imagenes/10.jpg" width="500px"><br>
-  <i>Modelo XGBoost</i>
-</p>
-
-<p align="center">
-  <img src="Imagenes/11.jpg" width="500px"><br>
-  <i>Simulación Bootstrapping</i>
-</p>
 
 ---
 
 ## ⚙️ Metodologías Utilizadas
 
-SCRUM + CRISP-DM
+Para el desarrollo del proyecto en tiempo y forma de manera colaborativa se utilizaron las siguientes metodologías:
 
 <p align="center">
-  <img src="Imagenes/3.jpg" width="450px"><br>
+  <img src="Imagenes/3.jpg" width="500px"><br>
   <i>SCRUM</i>
 </p>
 
 <p align="center">
-  <img src="Imagenes/2.jpg" width="450px"><br>
+  <img src="Imagenes/2.jpg" width="500px"><br>
   <i>CRISP-DM</i>
 </p>
 
@@ -91,19 +65,20 @@ SCRUM + CRISP-DM
 
 ## ⚙️ Tecnologías Utilizadas
 
+Se utilizaron las siguientes tecnologías para el desarrollo del proyecto:
+
+- **Host:** Microsoft Azure
+- **Backend:** Python
 - **Frontend:** Power BI
-- **Backend:** Python, XGBoost, Bootstrapping, Programación Lineal
-- **Infraestructura:** Microsoft Azure
-- **Automatización:** Power Automate, Microsoft Copilot
+- **Automatización:** Microsoft Power Automate
+- **LLM:** Microsoft Copilot
 
 ---
 
 ## 🏗️ Arquitectura General
 
-<p align="center">
-  <img src="Imagenes/4.jpg" width="500px"><br>
-  <i>Arquitectura del Sistema</i>
-</p>
+La arquitectura del sistema consto de un sistema de programación lineal, un sistema de predicción de demanda con Machine Learning, un sistema de simulación de escenarios con Bootstrapping, un sistema de flujo de trabajo automatizado con Microsoft Power Automate, un sistema de notificaciones automáticas por email con Microsoft Power Automate, un sistema de interacción con lenguaje natural con Microsoft Copilot y un sistema de dashboards interactivos con Power BI. El pryecto es altamnete escalable y compatible con el ERP SAP.
+
 
 <p align="center">
   <img src="Imagenes/6.jpg" width="500px"><br>
@@ -117,11 +92,32 @@ SCRUM + CRISP-DM
 
 ---
 
+## 🔍 EDA y Preprocesamiento
+
+Debido a la naturaleza del proyecto y los datos a los que tuvimos acceso, se analizo el uso de ETL, ELT, o EDA. Tras un fuerte analisis se decidió utilizar EDA para el preprocesamiento de los datos para obtener
+
+- Exploración de datos.
+- Conversión de trimestres a semanas.
+- Transformaciones previas al modelado.
+
+<p align="center">
+  <img src="Imagenes/20.jpg" width="500px">
+  <br><i>ETL vs ELT</i>
+</p>
+
+<p align="center">
+  <img src="Imagenes/8.jpg" width="500px">
+  <img src="Imagenes/9.jpg" width="500px">
+  <br><i>Análisis Exploratorio</i>
+</p>
+
+---
+
 ## 🔁 Flujo de Trabajo Automatizado
 
-**Microsoft Power Automate** permite:
+Para automatizar el proyecto se utilizo **Microsoft Power Automate**, que permite automatizar flujos de trabajo de manera sencilla y rápida. El flujo de trabajo automatizado consta de las siguientes acciones:
 
-- 📥 Ingesta de datos desde Excel
+- 📥 Extraccion de datos desde Excel
 - 🔄 Conversión a registros semanales
 - 🧠 Predicciones con XGBoost
 - 🎲 Simulaciones
@@ -134,11 +130,22 @@ SCRUM + CRISP-DM
   <i>Power Automate</i>
 </p>
 
+---
+
+## 📬 Notificaciones Inteligentes
+
+Se programaron notificaciones inteligentes para que se envíen correos electrónicos en ciertas situaciones por ejemplo:
+
+- Sobreproducción
+- Ruptura de Stock
+- Reportes semanales automatizados
+
+
 <p align="center">
-  <img src="Imagenes/16.jpg" width="500px">
-  <img src="Imagenes/17.jpg" width="500px">
-  <img src="Imagenes/18.png" width="500px">
-  <img src="Imagenes/19.png" width="500px">
+  <img src="Imagenes/16.jpg" width="750px">
+  <img src="Imagenes/17.jpg" width="750px">
+  <img src="Imagenes/18.png" width="750px">
+  <img src="Imagenes/19.png" width="750px">
   <br><i>Alertas por Correo Automatizadas</i>
 </p>
 
@@ -146,7 +153,7 @@ SCRUM + CRISP-DM
 
 ## 📊 Visualización y Análisis de Datos
 
-Visualización clara de resultados para la toma de decisiones en **Power BI**.
+Para la visualización clara de resultados y la toma de decisiones informadas por personal no tecnico como pueden ser ejecutivos o administradores se opto por el uso de **Power BI**.
 
 <p align="center">
   <img src="Imagenes/14.png" width="500px">
@@ -156,43 +163,17 @@ Visualización clara de resultados para la toma de decisiones en **Power BI**.
 
 ---
 
-## 🔍 EDA y Preprocesamiento
-
-- Exploración de datos.
-- Conversión de trimestres a semanas.
-- Transformaciones previas al modelado.
-
-<p align="center">
-  <img src="Imagenes/8.jpg" width="500px">
-  <img src="Imagenes/9.jpg" width="500px">
-  <br><i>Análisis Exploratorio</i>
-</p>
-
----
-
 ## 🗣️ Microsoft Copilot
 
-Permite la **interacción por lenguaje natural** con los datos y dashboards:
+Microsoft Copilot permite la **interacción por lenguaje natural** con los datos y dashboards:
 
 - Consultas en lenguaje natural sobre Power BI, Excel, etc.
 - Interacción accesible para usuarios no técnicos.
 
 ---
 
-## 📬 Notificaciones Inteligentes
-
-Se planea integrar un sistema de **alertas críticas** como:
-
-- Ruptura de stock
-- Sobreproducción
-- Reportes semanales automatizados
-
-Esto facilitará la acción temprana en situaciones de riesgo productivo.
-
----
-
 ## 📌 Conclusión
 
-**Linealytics AutoProduction** transforma la planificación industrial al integrar inteligencia artificial, optimización matemática y automatización empresarial en una solución robusta, escalable y lista para entornos reales.
+Este proyecto me a ayudado a comprender nuevos enfoques respecto a el despliegue de proyectos de Data Science en entornos productivos emrpesariales.
 
 ---
