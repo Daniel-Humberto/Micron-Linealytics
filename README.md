@@ -79,7 +79,6 @@ Se utilizaron las siguientes tecnologías para el desarrollo del proyecto:
 
 La arquitectura del sistema consto de un sistema de programación lineal, un sistema de predicción de demanda con Machine Learning, un sistema de simulación de escenarios con Bootstrapping, un sistema de flujo de trabajo automatizado con Microsoft Power Automate, un sistema de notificaciones automáticas por email con Microsoft Power Automate, un sistema de interacción con lenguaje natural con Microsoft Copilot y un sistema de dashboards interactivos con Power BI. El pryecto es altamnete escalable y compatible con el ERP SAP.
 
-
 <p align="center">
   <img src="Imagenes/6.jpg" width="500px"><br>
   <i>Arquitectura en Azure</i>
@@ -106,8 +105,8 @@ Debido a la naturaleza del proyecto y los datos a los que tuvimos acceso, se ana
 </p>
 
 <p align="center">
-  <img src="Imagenes/8.jpg" width="500px">
   <img src="Imagenes/9.jpg" width="500px">
+  <img src="Imagenes/8.jpg" width="500px">
   <br><i>Análisis Exploratorio</i>
 </p>
 
@@ -136,10 +135,9 @@ Para automatizar el proyecto se utilizo **Microsoft Power Automate**, que permit
 
 Se programaron notificaciones inteligentes para que se envíen correos electrónicos en ciertas situaciones por ejemplo:
 
-- Sobreproducción
-- Ruptura de Stock
 - Reportes semanales automatizados
-
+- Ruptura de Stock
+- Sobreproducción
 
 <p align="center">
   <img src="Imagenes/16.jpg" width="750px">
@@ -174,7 +172,6 @@ Microsoft Copilot permite la **interacción por lenguaje natural** con los datos
 
 ## 📌 Conclusión
 
-Este proyecto me a ayudado a comprender nuevos enfoques respecto a el despliegue de proyectos de Data Science en entornos productivos emrpesariales.
+Este proyecto me a ayudado a comprender nuevos enfoques respecto a el despliegue de proyectos de Data Science en entornos productivos emrpesariales. 
 
----
 ---
