@@ -1,55 +1,55 @@
 # 📊 Linealytics AutoProduction
 
 <p align="center">
-  <img src="Imagenes/1.jpg" width="400px">
+  <img src="Imagenes/1.jpg" width="500px">
 </p>
 
 ---
 
-## 📌 Intoduccion
+## 📌 Introducción
 
-Este fue el proyecto para el Genius Arena Hackathon 2025 de Talent Land, en el track "Production Planning Linear Programming" presentado por Micron. Fue desarrollado por el equipo Linealytics el cual formo parte de los ultimos 3 equipos finalistas.
+Este proyecto fue desarrollado para el **Genius Arena Hackathon 2025** de **Talent Land**, dentro del track *"Production Planning Linear Programming"* presentado por **Micron**. Fue creado por el equipo **Linealytics**, el cual se posicionó entre los tres finalistas del evento.
 
-El proyecto consto de un sistema en Python junto con el ecosistema empresarial de Microsoft, para automatizar los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente y reduciendo los costes, mediante un modelo de XGBoost, Bootstrapping y un sistema de programación lineal.
+El sistema fue construido en Python, integrando el ecosistema empresarial de Microsoft para automatizar los cálculos necesarios que equilibran la producción con la demanda. Esto permite una planificación más precisa y eficiente, así como una reducción de costos, mediante un modelo basado en **XGBoost**, **Bootstrapping** y **programación lineal**.
 
 ---
 
 ## ✅ Objetivo Principal
 
-> **System in Python that automates the necessary calculations to balance production with demand, allowing more precise and efficient planning and reducing costs, using linear programming modeling.**
+> **Sistema en Python que automatiza los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente, y reduciendo costos mediante modelado con programación lineal.**
 
 ---
 
 ## 🎯 Criterios Principales
 
-Se busca **minimizar la productividad** necesaria para cumplir con la demanda, teniendo en cuenta:
+El sistema tiene como objetivo **minimizar la productividad** requerida para satisfacer la demanda, considerando:
 
-- Stock inicial
-- Rendimiento
-- Productividad máxima
-- Densidad de producción
-- Stock final objetivo: **cero**
-- Stock de seguridad (opcional)
+* Stock inicial
+* Rendimiento
+* Productividad máxima
+* Densidad de producción
+* Stock final objetivo: **cero**
+* Stock de seguridad (opcional)
 
 ---
 
 ## 🚀 Desarrollo
 
-El proyecto consto de un sistema en Python junto con el ecosistema empresarial de Microsoft, para automatizar los cálculos necesarios para equilibrar la producción con la demanda, permitiendo una planificación más precisa y eficiente y reduciendo los costes, mediante un modelo de XGBoost, Bootstrapping y un sistema de programación lineal.
+El desarrollo del sistema incluyó diversas tecnologías y metodologías para lograr un flujo de trabajo automatizado e inteligente:
 
-- 🧠 Predicción semanal de demanda con **Machine Learning**
-- 🎲 Simulación de escenarios con **Bootstrapping**
-- 🧮 Optimización con **Programación Lineal**
-- 📈 Dashboards interactivos con **Power BI**
-- ⚙️ Flujo de trabajo 100% automatizado **Microsoft Power Automate**
-- 📧 Notificaciones automáticas por email **Microsoft Power Automate**
-- 💬 Interacción con lenguaje natural vía **Microsoft Copilot**
+* 🧠 Predicción semanal de demanda mediante **Machine Learning**
+* 🎲 Simulación de escenarios usando **Bootstrapping**
+* 🧮 Optimización a través de **Programación Lineal**
+* 📈 Visualización interactiva con **Power BI**
+* ⚙️ Automatización del flujo de trabajo con **Microsoft Power Automate**
+* 📧 Notificaciones inteligentes por correo electrónico
+* 💬 Interacción mediante lenguaje natural con **Microsoft Copilot**
 
 ---
 
-## ⚙️ Metodologías Utilizadas
+## 🧩 Metodologías Utilizadas
 
-Para el desarrollo del proyecto en tiempo y forma de manera colaborativa se utilizaron las siguientes metodologías:
+Para asegurar un desarrollo colaborativo, ágil y estructurado, se emplearon las siguientes metodologías:
 
 <p align="center">
   <img src="Imagenes/3.jpg" width="500px"><br>
@@ -65,19 +65,29 @@ Para el desarrollo del proyecto en tiempo y forma de manera colaborativa se util
 
 ## ⚙️ Tecnologías Utilizadas
 
-Se utilizaron las siguientes tecnologías para el desarrollo del proyecto:
+A continuación, se enlistan las principales tecnologías utilizadas:
 
-- **Host:** Microsoft Azure
-- **Backend:** Python
-- **Frontend:** Power BI
-- **Automatización:** Microsoft Power Automate
-- **LLM:** Microsoft Copilot
+* **Hosting:** Microsoft Azure
+* **Backend:** Python
+* **Frontend:** Power BI
+* **Automatización:** Microsoft Power Automate
+* **IA Conversacional:** Microsoft Copilot
 
 ---
 
 ## 🏗️ Arquitectura General
 
-La arquitectura del sistema consto de un sistema de programación lineal, un sistema de predicción de demanda con Machine Learning, un sistema de simulación de escenarios con Bootstrapping, un sistema de flujo de trabajo automatizado con Microsoft Power Automate, un sistema de notificaciones automáticas por email con Microsoft Power Automate, un sistema de interacción con lenguaje natural con Microsoft Copilot y un sistema de dashboards interactivos con Power BI. El pryecto es altamnete escalable y compatible con el ERP SAP.
+El sistema integra:
+
+* Modelado de programación lineal
+* Predicción de demanda con Machine Learning
+* Simulación con Bootstrapping
+* Automatización de flujos con Power Automate
+* Envío de notificaciones automáticas por correo
+* Dashboards interactivos con Power BI
+* Interacción por lenguaje natural con Copilot
+
+El proyecto es altamente escalable y compatible con **SAP ERP**.
 
 <p align="center">
   <img src="Imagenes/6.jpg" width="500px"><br>
@@ -86,18 +96,18 @@ La arquitectura del sistema consto de un sistema de programación lineal, un sis
 
 <p align="center">
   <img src="Imagenes/7.jpg" width="500px"><br>
-  <i>Arquitectura en Azure + SAP</i>
+  <i>Integración con SAP</i>
 </p>
 
 ---
 
-## 🔍 EDA y Preprocesamiento
+## 🔍 Análisis Exploratorio y Preprocesamiento
 
-Debido a la naturaleza del proyecto y los datos a los que tuvimos acceso, se analizo el uso de ETL, ELT, o EDA. Tras un fuerte analisis se decidió utilizar EDA para el preprocesamiento de los datos para obtener
+Dada la naturaleza de los datos, se optó por un enfoque **EDA (Exploratory Data Analysis)** sobre ETL o ELT. Este permitió:
 
-- Exploración de datos.
-- Conversión de trimestres a semanas.
-- Transformaciones previas al modelado.
+* Exploración detallada de los datos
+* Conversión de trimestres a semanas
+* Transformaciones previas al modelado
 
 <p align="center">
   <img src="Imagenes/20.jpg" width="500px">
@@ -114,64 +124,64 @@ Debido a la naturaleza del proyecto y los datos a los que tuvimos acceso, se ana
 
 ## 🔁 Flujo de Trabajo Automatizado
 
-Para automatizar el proyecto se utilizo **Microsoft Power Automate**, que permite automatizar flujos de trabajo de manera sencilla y rápida. El flujo de trabajo automatizado consta de las siguientes acciones:
+Gracias a **Microsoft Power Automate**, el sistema implementa un flujo completamente automatizado que ejecuta los siguientes pasos:
 
-- 📥 Extraccion de datos desde Excel
-- 🔄 Conversión a registros semanales
-- 🧠 Predicciones con XGBoost
-- 🎲 Simulaciones
-- 🧮 Optimización
-- 📊 Visualización en Power BI
-- 📧 Notificaciones por email
+* 📥 Extracción de datos desde Excel
+* 🔄 Conversión a registros semanales
+* 🧠 Predicción con **XGBoost**
+* 🎲 Simulación de escenarios
+* 🧮 Optimización lineal
+* 📊 Visualización en Power BI
+* 📧 Envío de notificaciones por correo
 
 <p align="center">
   <img src="Imagenes/5.jpg" width="500px"><br>
-  <i>Power Automate</i>
+  <i>Flujo automatizado con Power Automate</i>
 </p>
 
 ---
 
 ## 📬 Notificaciones Inteligentes
 
-Se programaron notificaciones inteligentes para que se envíen correos electrónicos en ciertas situaciones por ejemplo:
+Se configuraron alertas automatizadas por correo electrónico para situaciones críticas como:
 
-- Reportes semanales automatizados
-- Ruptura de Stock
-- Sobreproducción
+* Reportes semanales automáticos
+* Ruptura de stock
+* Sobreproducción
 
 <p align="center">
   <img src="Imagenes/16.jpg" width="750px">
   <img src="Imagenes/17.jpg" width="750px">
   <img src="Imagenes/18.png" width="750px">
   <img src="Imagenes/19.png" width="750px">
-  <br><i>Alertas por Correo Automatizadas</i>
+  <br><i>Alertas automatizadas por correo</i>
 </p>
 
 ---
 
 ## 📊 Visualización y Análisis de Datos
 
-Para la visualización clara de resultados y la toma de decisiones informadas por personal no tecnico como pueden ser ejecutivos o administradores se opto por el uso de **Power BI**.
+Para garantizar una visualización comprensible para personal no técnico, como ejecutivos o administradores, se optó por utilizar **Power BI** para la presentación de resultados clave.
 
 <p align="center">
   <img src="Imagenes/14.png" width="500px">
   <img src="Imagenes/15.png" width="500px">
-  <br><i>Dashboards en Power BI</i>
+  <br><i>Dashboards interactivos en Power BI</i>
 </p>
 
 ---
 
-## 🗣️ Microsoft Copilot
+## 🗣️ Interacción con Microsoft Copilot
 
-Microsoft Copilot permite la **interacción por lenguaje natural** con los datos y dashboards:
+**Microsoft Copilot** permite una experiencia de usuario intuitiva mediante lenguaje natural. Entre sus funciones destacadas se encuentran:
 
-- Consultas en lenguaje natural sobre Power BI, Excel, etc.
-- Interacción accesible para usuarios no técnicos.
+* Realización de consultas sobre datos en Power BI y Excel
+* Acceso simplificado para usuarios sin conocimientos técnicos
 
 ---
 
-## 📌 Conclusión
+## ✅ Conclusión
 
-Este proyecto me a ayudado a comprender nuevos enfoques respecto a el despliegue de proyectos de Data Science en entornos productivos emrpesariales. 
+Este proyecto me ha permitido adquirir una visión más profunda sobre el despliegue de soluciones de **Data Science** en entornos empresariales productivos. Aprendí a integrar técnicas avanzadas de análisis, predicción y automatización, combinadas con herramientas de visualización e interacción accesibles para todo tipo de usuarios.
 
 ---
