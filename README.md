@@ -82,13 +82,13 @@ El modelo devuelve:
 - **Metodologías:** SCRUM + CRISP-DM
 
 <p align="center">
-  <img src="Imagenes/2.jpg" width="450px"><br>
-  <i>CRISP-DM</i>
+  <img src="Imagenes/3.jpg" width="450px"><br>
+  <i>SCRUM</i>
 </p>
 
 <p align="center">
-  <img src="Imagenes/3.jpg" width="450px"><br>
-  <i>SCRUM</i>
+  <img src="Imagenes/2.jpg" width="450px"><br>
+  <i>CRISP-DM</i>
 </p>
 
 ---
