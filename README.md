@@ -37,13 +37,23 @@ El sistema tiene como objetivo **minimizar la productividad** requerida para sat
 
 El desarrollo del sistema incluyó diversas tecnologías y metodologías para lograr un flujo de trabajo automatizado e inteligente:
 
-* 🧠 Predicción semanal de demanda mediante **Machine Learning**
+* 🧠 Predicción semanal de demanda mediante **XGBoost**
 * 🎲 Simulación de escenarios usando **Bootstrapping**
 * 🧮 Optimización a través de **Programación Lineal**
 * 📈 Visualización interactiva con **Power BI**
 * ⚙️ Automatización del flujo de trabajo con **Microsoft Power Automate**
-* 📧 Notificaciones inteligentes por correo electrónico
+* 📧 Notificaciones inteligentes por correo electrónico **Microsoft Power Automate**
 * 💬 Interacción mediante lenguaje natural con **Microsoft Copilot**
+
+<p align="center">
+  <img src="Imagenes/10.jpg" width="500px"><br>
+  <i>XGBoost</i>
+</p>
+
+<p align="center">
+  <img src="Imagenes/11.jpg" width="500px"><br>
+  <i>Bootstrapping</i>
+</p>
 
 ---
 
@@ -162,6 +172,11 @@ Se configuraron alertas automatizadas por correo electrónico para situaciones c
 ## 📊 Visualización y Análisis de Datos
 
 Para garantizar una visualización comprensible para personal no técnico, como ejecutivos o administradores, se optó por utilizar **Power BI** para la presentación de resultados clave.
+
+<p align="center">
+  <img src="Imagenes/13.jpg" width="500px">
+  <br><i>Resultados del Modelo Programación Lineal en Python</i>
+</p>
 
 <p align="center">
   <img src="Imagenes/14.png" width="500px">
