@@ -1,10 +1,14 @@
 # 📊 Linealytics AutoProduction
 
-Una solución integral y automatizada para la **planificación y optimización de la producción industrial**, desarrollada para el **Talen Hackaton 2025 - Track Micron** por el equipo **Linealytics**.
-
 <p align="center">
   <img src="Imagenes/1.jpg" width="400px">
 </p>
+
+---
+
+## 📌 Características Principales
+
+Una solución integral y automatizada para la **planificación y optimización de la producción industrial**, desarrollada para el **Talen Hackaton 2025 - Track Micron** por el equipo **Linealytics**.
 
 ---
 
