@@ -37,6 +37,7 @@ El sistema tiene como objetivo **minimizar la productividad** requerida para sat
 
 El desarrollo del sistema incluyó diversas tecnologías y metodologías para lograr un flujo de trabajo automatizado e inteligente:
 
+* ☁️ Despliegue y orquestación en la nube con **Microsoft Azure**
 * 🧠 Predicción semanal de demanda mediante **XGBoost**
 * 🎲 Simulación de escenarios usando **Bootstrapping**
 * 🧮 Optimización a través de **Programación Lineal**
