@@ -88,7 +88,7 @@ A continuación, se enlistan las principales tecnologías utilizadas:
 
 ## 🏗️ Arquitectura General
 
-El sistema está desplegado en Microsoft Azure bajo una arquitectura modular y escalable que integra analítica avanzada, automatización e inteligencia artificial. Incluye servicios comoMicrosoft Power Automate, Excel, y Power BI Embedded, asegurando alto rendimiento y disponibilidad.
+El sistema está desplegado en Microsoft Azure bajo una arquitectura modular y escalable que integra analítica avanzada, automatización e inteligencia artificial. Incluye servicios como Microsoft Power Automate, Excel, y Power BI Embedded, asegurando alto rendimiento y disponibilidad.
 
 La potencial integración nativa con **SAP ERP** permite automatizar la toma de decisiones sobre datos reales del negocio, mejorando la eficiencia operativa. Gracias a su diseño serverless, puede escalar fácilmente a nivel corporativo con mínimo mantenimiento.
 
