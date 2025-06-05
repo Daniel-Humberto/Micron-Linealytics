@@ -35,16 +35,9 @@ El sistema tiene como objetivo **minimizar la productividad** requerida para sat
 
 ## 🚀 Desarrollo
 
-El desarrollo del sistema incluyó diversas tecnologías y metodologías para lograr un flujo de trabajo automatizado e inteligente:
+El sistema está desplegado en Microsoft Azure bajo una arquitectura modular y escalable que integra analítica avanzada, automatización e inteligencia artificial. Incluye servicios comoMicrosoft Power Automate, Excel, y Power BI Embedded, asegurando alto rendimiento y disponibilidad.
 
-* ☁️ Despliegue y orquestación en la nube con **Microsoft Azure**
-* 🧠 Predicción semanal de demanda mediante **XGBoost**
-* 🎲 Simulación de escenarios usando **Bootstrapping**
-* 🧮 Optimización a través de **Programación Lineal**
-* 📈 Visualización interactiva con **Power BI**
-* ⚙️ Automatización del flujo de trabajo con **Microsoft Power Automate**
-* 📧 Notificaciones inteligentes por correo electrónico **Microsoft Power Automate**
-* 💬 Interacción mediante lenguaje natural con **Microsoft Copilot**
+La potencial integración nativa con SAP ERP permite automatizar la toma de decisiones sobre datos reales del negocio, mejorando la eficiencia operativa. Gracias a su diseño serverless, puede escalar fácilmente a nivel corporativo con mínimo mantenimiento.
 
 <p align="center">
   <img src="Imagenes/10.jpg" width="500px"><br>
