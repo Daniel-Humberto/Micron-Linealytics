@@ -202,7 +202,7 @@ Para garantizar una visualización comprensible para personal no técnico, como 
 </p>
 
 <p align="center">
-  <img src="Imagenes/20.jpg" width="500px">
+  <img src="Imagenes/21.jpg" width="500px">
   <img src="Imagenes/22.jpg" width="500px">
   <br><i>Dashboards interactivos en Power BI</i>
 </p>
