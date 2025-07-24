@@ -122,7 +122,6 @@ Finalmente, la arquitectura contempla la posible integración directa con sistem
 
 <p align="center">
   <img src="Imagenes/6.jpg"
-  alt="Visual de Matemáticas en IA, Data y Ops"
   style="max-width: 90%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);"> 
 </p>
 
@@ -133,7 +132,6 @@ Finalmente, la arquitectura contempla la posible integración directa con sistem
 
 <p align="center">
   <img src="Imagenes/7.jpg"
-  alt="Visual de Matemáticas en IA, Data y Ops"
   style="max-width: 90%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);"> 
 </p>
 
