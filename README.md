@@ -121,14 +121,26 @@ Gracias al diseño Serverless, los recursos se escalan automáticamente según l
 Finalmente, la arquitectura contempla la posible integración directa con sistemas corporativos como SAP ERP, permitiendo automatizar la toma de decisiones estratégicas y operativas sobre datos reales del negocio. Esto representa un avance significativo hacia una cadena de suministro autónoma e inteligente, donde el aprendizaje automático no solo predice, sino también ejecuta acciones concretas dentro del entorno empresarial.
 
 <p align="center">
-  <img src="Imagenes/6.jpg" width="500px"><br>
-  <i>Arquitectura en Azure</i>
+  <img src="Imagenes/6.jpg"
+  alt="Visual de Matemáticas en IA, Data y Ops"
+  style="max-width: 90%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);"> 
 </p>
 
 <p align="center">
-  <img src="Imagenes/7.jpg" width="500px"><br>
+  <i>Arquitectura en Azure</i>
+</p>
+
+
+<p align="center">
+  <img src="Imagenes/7.jpg"
+  alt="Visual de Matemáticas en IA, Data y Ops"
+  style="max-width: 90%; height: auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);"> 
+</p>
+
+<p align="center">
   <i>Integración con SAP</i>
 </p>
+
 
 ---
 
